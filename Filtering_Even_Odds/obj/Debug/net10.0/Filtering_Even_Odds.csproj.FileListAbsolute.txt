@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/bin/Debug/net10.0/Filtering_Even_Odds
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/bin/Debug/net10.0/Filtering_Even_Odds.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/bin/Debug/net10.0/Filtering_Even_Odds.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/bin/Debug/net10.0/Filtering_Even_Odds.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/bin/Debug/net10.0/Filtering_Even_Odds.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/Filtering_Even_Odds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/Filtering_Even_Odds.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/Filtering_Even_Odds.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/Filtering_Even_Odds.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/Filtering_Even_Odds.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/refint/Filtering_Even_Odds.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/Filtering_Even_Odds.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/Filtering_Even_Odds.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Filtering_Even_Odds/obj/Debug/net10.0/ref/Filtering_Even_Odds.dll

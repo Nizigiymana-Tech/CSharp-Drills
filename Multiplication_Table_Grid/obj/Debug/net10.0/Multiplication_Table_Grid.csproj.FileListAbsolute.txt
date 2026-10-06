@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/bin/Debug/net10.0/Multiplication_Table_Grid
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/bin/Debug/net10.0/Multiplication_Table_Grid.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/bin/Debug/net10.0/Multiplication_Table_Grid.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/bin/Debug/net10.0/Multiplication_Table_Grid.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/bin/Debug/net10.0/Multiplication_Table_Grid.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/Multiplication_Table_Grid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/Multiplication_Table_Grid.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/Multiplication_Table_Grid.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/Multiplication_Table_Grid.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/Multiplication_Table_Grid.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/refint/Multiplication_Table_Grid.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/Multiplication_Table_Grid.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/Multiplication_Table_Grid.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiplication_Table_Grid/obj/Debug/net10.0/ref/Multiplication_Table_Grid.dll

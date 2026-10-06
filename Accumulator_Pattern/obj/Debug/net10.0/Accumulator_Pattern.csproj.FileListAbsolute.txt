@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/bin/Debug/net10.0/Accumulator_Pattern
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/bin/Debug/net10.0/Accumulator_Pattern.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/bin/Debug/net10.0/Accumulator_Pattern.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/bin/Debug/net10.0/Accumulator_Pattern.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/bin/Debug/net10.0/Accumulator_Pattern.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/Accumulator_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/Accumulator_Pattern.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/Accumulator_Pattern.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/Accumulator_Pattern.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/Accumulator_Pattern.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/refint/Accumulator_Pattern.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/Accumulator_Pattern.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/Accumulator_Pattern.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Accumulator_Pattern/obj/Debug/net10.0/ref/Accumulator_Pattern.dll

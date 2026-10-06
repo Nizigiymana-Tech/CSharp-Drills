@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/bin/Debug/net10.0/Multiples_Of_Five
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/bin/Debug/net10.0/Multiples_Of_Five.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/bin/Debug/net10.0/Multiples_Of_Five.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/bin/Debug/net10.0/Multiples_Of_Five.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/bin/Debug/net10.0/Multiples_Of_Five.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/Multiples_Of_Five.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/Multiples_Of_Five.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/Multiples_Of_Five.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/Multiples_Of_Five.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/Multiples_Of_Five.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/refint/Multiples_Of_Five.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/Multiples_Of_Five.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/Multiples_Of_Five.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Multiples_Of_Five/obj/Debug/net10.0/ref/Multiples_Of_Five.dll

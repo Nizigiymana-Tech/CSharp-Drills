@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Accumulator_Pattern/1.0.0": {
+        "runtime": {
+          "Accumulator_Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accumulator_Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

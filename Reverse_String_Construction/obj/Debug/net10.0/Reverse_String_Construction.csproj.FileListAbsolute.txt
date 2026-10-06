@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/bin/Debug/net10.0/Reverse_String_Construction
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/bin/Debug/net10.0/Reverse_String_Construction.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/bin/Debug/net10.0/Reverse_String_Construction.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/bin/Debug/net10.0/Reverse_String_Construction.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/bin/Debug/net10.0/Reverse_String_Construction.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/Reverse_String_Construction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/Reverse_String_Construction.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/Reverse_String_Construction.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/Reverse_String_Construction.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/Reverse_String_Construction.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/refint/Reverse_String_Construction.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/Reverse_String_Construction.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/Reverse_String_Construction.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Reverse_String_Construction/obj/Debug/net10.0/ref/Reverse_String_Construction.dll

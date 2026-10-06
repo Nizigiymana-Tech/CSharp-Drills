@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Accumulator_Pattern/Accumulator_Pattern.csproj" />
+  <Project Path="Array_Traversal/Array_Traversal.csproj" />
+  <Project Path="Fibonacci_Sequence_Generator/Fibonacci_Sequence_Generator.csproj" />
+  <Project Path="Filtering_Even_Odds/Filtering_Even_Odds.csproj" />
+  <Project Path="Find_Second_Largest_Element/Find_Second_Largest_Element.csproj" />
+  <Project Path="Multiples_Of_Five/Multiples_Of_Five.csproj" />
+  <Project Path="Multiplication_Table_Grid/Multiplication_Table_Grid.csproj" />
+  <Project Path="Print_Numbers_One_To_Ten/Print_Numbers_One_To_Ten.csproj" />
+  <Project Path="Reverse_String_Construction/Reverse_String_Construction.csproj" />
+</Solution>

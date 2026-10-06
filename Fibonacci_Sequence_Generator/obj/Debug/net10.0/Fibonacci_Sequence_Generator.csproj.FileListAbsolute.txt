@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/bin/Debug/net10.0/Fibonacci_Sequence_Generator
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/bin/Debug/net10.0/Fibonacci_Sequence_Generator.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/bin/Debug/net10.0/Fibonacci_Sequence_Generator.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/bin/Debug/net10.0/Fibonacci_Sequence_Generator.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/bin/Debug/net10.0/Fibonacci_Sequence_Generator.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/Fibonacci_Sequence_Generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/Fibonacci_Sequence_Generator.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/Fibonacci_Sequence_Generator.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/Fibonacci_Sequence_Generator.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/Fibonacci_Sequence_Generator.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/refint/Fibonacci_Sequence_Generator.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/Fibonacci_Sequence_Generator.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/Fibonacci_Sequence_Generator.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Fibonacci_Sequence_Generator/obj/Debug/net10.0/ref/Fibonacci_Sequence_Generator.dll

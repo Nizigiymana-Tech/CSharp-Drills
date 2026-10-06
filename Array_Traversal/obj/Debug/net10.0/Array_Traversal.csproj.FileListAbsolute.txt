@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/bin/Debug/net10.0/Array_Traversal
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/bin/Debug/net10.0/Array_Traversal.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/bin/Debug/net10.0/Array_Traversal.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/bin/Debug/net10.0/Array_Traversal.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/bin/Debug/net10.0/Array_Traversal.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/Array_Traversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/Array_Traversal.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/Array_Traversal.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/Array_Traversal.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/Array_Traversal.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/refint/Array_Traversal.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/Array_Traversal.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/Array_Traversal.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Array_Traversal/obj/Debug/net10.0/ref/Array_Traversal.dll

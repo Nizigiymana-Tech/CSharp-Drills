@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/bin/Debug/net10.0/Print_Numbers_One_To_Ten
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/bin/Debug/net10.0/Print_Numbers_One_To_Ten.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/bin/Debug/net10.0/Print_Numbers_One_To_Ten.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/bin/Debug/net10.0/Print_Numbers_One_To_Ten.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/bin/Debug/net10.0/Print_Numbers_One_To_Ten.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/Print_Numbers_One_To_Ten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/Print_Numbers_One_To_Ten.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/Print_Numbers_One_To_Ten.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/Print_Numbers_One_To_Ten.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/Print_Numbers_One_To_Ten.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/refint/Print_Numbers_One_To_Ten.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/Print_Numbers_One_To_Ten.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/Print_Numbers_One_To_Ten.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Print_Numbers_One_To_Ten/obj/Debug/net10.0/ref/Print_Numbers_One_To_Ten.dll
