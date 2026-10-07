@@ -8,4 +8,5 @@
   <Project Path="Multiplication_Table_Grid/Multiplication_Table_Grid.csproj" />
   <Project Path="Print_Numbers_One_To_Ten/Print_Numbers_One_To_Ten.csproj" />
   <Project Path="Reverse_String_Construction/Reverse_String_Construction.csproj" />
+  <Project Path="Right-Aligned_ASCII_Triange/Right-Aligned_ASCII_Triange.csproj" />
 </Solution>

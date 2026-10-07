@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Find_Second_Largest_Element/1.0.0": {
+        "runtime": {
+          "Find_Second_Largest_Element.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Second_Largest_Element/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

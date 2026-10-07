@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multiples_Of_Five")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e1edf78cbfe14fb8110fb5fd0e92ff5e53045af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multiples_Of_Five")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multiples_Of_Five")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

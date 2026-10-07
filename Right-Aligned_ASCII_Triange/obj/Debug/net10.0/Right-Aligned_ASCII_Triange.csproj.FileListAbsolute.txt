@@ -1,0 +1,15 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/bin/Debug/net10.0/Right-Aligned_ASCII_Triange
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/bin/Debug/net10.0/Right-Aligned_ASCII_Triange.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/bin/Debug/net10.0/Right-Aligned_ASCII_Triange.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/bin/Debug/net10.0/Right-Aligned_ASCII_Triange.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/bin/Debug/net10.0/Right-Aligned_ASCII_Triange.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.sourcelink.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/refint/Right-Aligned_ASCII_Triange.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/Right-Aligned_ASCII_Triange.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Right-Aligned_ASCII_Triange/obj/Debug/net10.0/ref/Right-Aligned_ASCII_Triange.dll

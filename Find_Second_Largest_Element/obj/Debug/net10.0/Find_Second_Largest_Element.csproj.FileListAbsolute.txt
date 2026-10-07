@@ -1,0 +1,15 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/bin/Debug/net10.0/Find_Second_Largest_Element
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/bin/Debug/net10.0/Find_Second_Largest_Element.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/bin/Debug/net10.0/Find_Second_Largest_Element.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/bin/Debug/net10.0/Find_Second_Largest_Element.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/bin/Debug/net10.0/Find_Second_Largest_Element.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.sourcelink.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/refint/Find_Second_Largest_Element.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/Find_Second_Largest_Element.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/2/Find_Second_Largest_Element/obj/Debug/net10.0/ref/Find_Second_Largest_Element.dll
